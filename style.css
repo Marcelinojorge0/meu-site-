@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredericka+the+Great&display=swap');
 
 @font-face {font-family: "android";
-  src: url("../font/idroid.otf") format("opentype");
+  src: url("idroid.otf") format("opentype");
   font-weight: normal;
 }
 
