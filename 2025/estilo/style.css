@@ -81,12 +81,12 @@ section.imagem > p{
 }
 
 #img1{
-  background-image: url("/imagem/background001.jpg");
+  background-image: url("/imagens/background001.jpg");
   background-position: right center;
 }
 
 #img2{
-  background-image: url("/imagem/background002.jpg");
+  background-image: url("/imagens/background002.jpg");
   background-position: right center;
 }
 
@@ -102,4 +102,4 @@ footer > a{
   padding-right: 30px;
   text-align: center;
   text-shadow: 1px 1px 2px #0E0E0E38;
-}
+  }
